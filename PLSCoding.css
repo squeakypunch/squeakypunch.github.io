@@ -1,0 +1,34 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(PLSbase.png);
+}
+
+.ds4.white.disconnected {
+    background: url(PLSdisconnected.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(PLStriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(PLSbumper.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(PLSstart.png);
+}
+
+.ds4.white .button {
+    background-image: url(PLSface.png);
+}
+
+.ds4.white .stick {
+    background-image: url(PLSsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(PLSdpad.png);
+}
+
+/*END PS4 White Controller Styling*/
